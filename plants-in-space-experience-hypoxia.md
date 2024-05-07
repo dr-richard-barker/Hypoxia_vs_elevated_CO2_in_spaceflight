@@ -1,5 +1,7 @@
 # Plants in space experience hypoxia
 
+**Title:** Respiration in microgravity isn’t easy, even if you’re green.
+
 {% file src=".gitbook/assets/Hypoxia 2018 MWPCD poster_final.pdf" %}
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F45qlAnuVXxZemFBX6hgg%2Fuploads%2FaTjJ6uCdYwp5mbTMs9Gy%2FHypoxia%202018%20MWPCD%20poster_final.pdf?alt=media&token=0211cd8d-5bf6-484d-8e71-2cebb15d254c" %}
