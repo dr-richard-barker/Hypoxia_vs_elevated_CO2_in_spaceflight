@@ -20,6 +20,16 @@ _**“This is a crude mix of spaceflight and metabolic engineering review.” bu
 
 <figure><img src=".gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
 
+**Gluconeogenesis**
+
+<figure><img src=".gitbook/assets/Gluconeogenesis.png" alt=""><figcaption><p>Metabolic model for Gluconeogenesis in Arabidopsis cells. </p></figcaption></figure>
+
+
+
+Glycolysis in spaceflight is alteted
+
+<figure><img src=".gitbook/assets/Mito_Plant_glycolysis- February 05, 2024 at 12.16.29.png" alt=""><figcaption></figcaption></figure>
+
 **Introduction.**
 
 Photosynthesis and respiration are two vital processes in the life cycle of plants on Earth and in space. Photosynthesis assimilates CO2 into carbon-rich molecules, whereas respiration oxidizes 30%–60% of those molecules and releases CO2 back into the environment (Raich et al., 2014; Amthor et al., 2019). While photosynthesis relies on a single substrate, CO2, respiration involves a complex range of reduced carbon molecules that serve as respiratory fuel sources, including sugars, amino acids, organic acids, fatty acids, chlorophylls, and other carbon compounds (Hörtensteiner and Kräutler, 2011; O'Leary et al., 2019). The selection of substrates for respiration is regulated by metabolic enzyme abundances and regulations inside cells, which might not be optimized for the environments and conditions encountered by many plants in managed environments today. Direct substrates for respiration are defined as those transported into the mitochondrial matrix and metabolized to generate reducing equivalents, which can be used to drive the electron transport chain (ETC) and oxidative phosphorylation in mitochondria with or without CO2 release. However, respiration is not a straightforward process, as partial oxidation of respiratory substrates and the operation of non-phosphorylating bypasses in the ETC limit the efficiency of ATP generation (Millar et al., 2011). The ideal balance between "maintenance" and "growth" respiration is a matter of debate, and it is unclear whether certain substrates drive its rate (Padmasree et al., 2002; Araújo et al., 2014; Vanlerberghe et al., 2020; Scafaro et al., 2021). The concept of "optimal respiration" which balances cellular redox states, contributes to ideal photosynthetic capacity and supports growth, biomass, and yield is difficult to quantify (Tcherkez et al., 2017; O'Leary et al., 2019). Our understanding of the major respiratory substrates throughout the diurnal cycle, under stress conditions, and across plant development is incomplete. Microgravity and other conditions experienced during spaceflight can have a significant impact on plant respiration. Studies have shown that microgravity can lead to changes in plant metabolic pathways, including respiration (Ferl and Paul, 2016). Therefore, understanding and optimizing respiratory substrates in plants under these unique conditions is crucial. This review aims to provide an update on recent discoveries of respiratory substrates under normal terrestrial conditions and then contrast them with plant response to spaceflight, in an attempt to identify gaps in our current understanding as we seek respiratory optimization in plants for agroecosystems on earth, LEO and beyond.
