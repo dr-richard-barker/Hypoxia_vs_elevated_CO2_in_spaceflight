@@ -79,3 +79,7 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 But we need complete tissue illustration&#x20;
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Separate roots and shoots**
