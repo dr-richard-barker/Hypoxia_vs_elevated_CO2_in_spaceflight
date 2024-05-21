@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Action plan](README.md)
+* [Outline for Paper V1](outline-for-paper-v1.md)
 * [Spaceflight plant respiration review](spaceflight-plant-respiration-review.md)
 * [Plants in space experience hypoxia](plants-in-space-experience-hypoxia.md)
 * [Future Work: Metabolic Modelling](future-work-metabolic-modelling.md)
