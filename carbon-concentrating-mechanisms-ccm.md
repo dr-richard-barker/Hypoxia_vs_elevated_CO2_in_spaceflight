@@ -16,7 +16,7 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 
 **Components of CCMs**: Key components include bicarbonate transporters, CO₂ pumps, and carboxysomes. These components help cyanobacteria efficiently fix CO₂, even under low CO₂ conditions and might work in multi-cellular crop species.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon">https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon">https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon</a></p></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 
 **Engineering Crop Plants**: The text outlines a phased approach to introducing cyanobacterial CCM components into C₃ crop plants to improve their photosynthetic efficiency and water-use efficiency (WUE). This includes adding bicarbonate transporters, CO₂ pumps, and carboxysomes to chloroplasts while ensuring optimum tempaerature, humidity and nutrient supply.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p><a href="https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2">https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2">https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2</a></p></figcaption></figure>
 
 
 
