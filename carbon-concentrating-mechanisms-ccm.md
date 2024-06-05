@@ -16,7 +16,7 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 
 **Components of CCMs**: Key components include bicarbonate transporters, CO₂ pumps, and carboxysomes. These components help cyanobacteria efficiently fix CO₂, even under low CO₂ conditions and might work in multi-cellular crop species.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon">https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon">https://www.researchgate.net/publication/341653894_Linking_the_Dynamic_Response_of_the_Carbon_Dioxide-Concentrating_Mechanism_to_Carbon_Assimilation_Behavior_in_Fremyella_diplosiphon</a></p></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 
 **Engineering Crop Plants**: The text outlines a phased approach to introducing cyanobacterial CCM components into C₃ crop plants to improve their photosynthetic efficiency and water-use efficiency (WUE). This includes adding bicarbonate transporters, CO₂ pumps, and carboxysomes to chloroplasts while ensuring optimum tempaerature, humidity and nutrient supply.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2">https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2">https://link.springer.com/chapter/10.1007/978-3-319-09123-5_2</a></p></figcaption></figure>
 
 
 
@@ -38,11 +38,11 @@ Schematic representation of photorespiration. Enzymatic reactions (R1–R6) typi
 
 {% embed url="https://www.researchgate.net/publication/5667722_A_Model_for_Carbohydrate_Metabolism_in_the_Diatom_Phaeodactylum_tricornutum_Deduced_from_Comparative_Whole_Genome_Analysis" %}
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Model for carbon concentrating system: For discussion of the pathways see text. Enzyme abbreviations: CA: carbonic anhydrase; MDH: malate dehydrogenase; ME1: NAD malic enzyme, mitochondrial; PEPC: phosphoenolpyruvate carboxylase; PEPCK: phosphenolpyruvate carboxykinase; PK: pyruvate kinase; PPDK: pyruvate-phosphate dikinase; PYC: pyruvate carboxylase; RUBISCO: ribulose-1,5-bisphosphate carboxylase.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Model for carbon concentrating system: For discussion of the pathways see text. Enzyme abbreviations: CA: carbonic anhydrase; MDH: malate dehydrogenase; ME1: NAD malic enzyme, mitochondrial; PEPC: phosphoenolpyruvate carboxylase; PEPCK: phosphenolpyruvate carboxykinase; PK: pyruvate kinase; PPDK: pyruvate-phosphate dikinase; PYC: pyruvate carboxylase; RUBISCO: ribulose-1,5-bisphosphate carboxylase.</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>For simplicity, the number of oragenelle membranes has been reduced in this figure. A gene model for glycerate kinase (GK) could not be found in either genome. The bacterial-type glyoxylate to glycerate metabolism is not shown due to uncertainty in the localization of the enzymes. Enzyme Abbreviations: ACS: acetyl CoA synthetase; CTS: citrate synthase; GDC: glycine decarboxylase; GOX: glycolate oxidase; GK: glycerate kinase; HPR: hydroxypyruvate reductase /glycerate dehydrogenase; ICL: isocitrate lyase; ME1: NAD malic enzyme; MLS: malate synthase; PDH: pyruvate dehydrogenase; PGP: 2-phosphoglycolate phosphatase; RUBISCO: ribulose-1,5-bisphosphate carboxylase; SHMT: serine hydroxymethyltransferase; SPT/AGT: serine-pyruvate/alanine-glyoxylate aminotransferase.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p>For simplicity, the number of oragenelle membranes has been reduced in this figure. A gene model for glycerate kinase (GK) could not be found in either genome. The bacterial-type glyoxylate to glycerate metabolism is not shown due to uncertainty in the localization of the enzymes. Enzyme Abbreviations: ACS: acetyl CoA synthetase; CTS: citrate synthase; GDC: glycine decarboxylase; GOX: glycolate oxidase; GK: glycerate kinase; HPR: hydroxypyruvate reductase /glycerate dehydrogenase; ICL: isocitrate lyase; ME1: NAD malic enzyme; MLS: malate synthase; PDH: pyruvate dehydrogenase; PGP: 2-phosphoglycolate phosphatase; RUBISCO: ribulose-1,5-bisphosphate carboxylase; SHMT: serine hydroxymethyltransferase; SPT/AGT: serine-pyruvate/alanine-glyoxylate aminotransferase.</p></figcaption></figure>
 
 
 

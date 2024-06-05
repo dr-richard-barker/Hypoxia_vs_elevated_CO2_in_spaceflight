@@ -20,7 +20,7 @@ _**“This is a crude mix of spaceflight and metabolic engineering review.” bu
 
 <figure><img src=".gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/337850288_Genetic_Engineering_for_Global_Food_Security_Photosynthesis_and_Biofortification">https://www.researchgate.net/publication/337850288_Genetic_Engineering_for_Global_Food_Security_Photosynthesis_and_Biofortification</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://www.researchgate.net/publication/337850288_Genetic_Engineering_for_Global_Food_Security_Photosynthesis_and_Biofortification">https://www.researchgate.net/publication/337850288_Genetic_Engineering_for_Global_Food_Security_Photosynthesis_and_Biofortification</a></p></figcaption></figure>
 
 **Gluconeogenesis**
 
@@ -28,7 +28,7 @@ _**“This is a crude mix of spaceflight and metabolic engineering review.” bu
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Photorespiration: Schematic representation of photorespiration. Glycolate oxidase (GOX; EC 1.1.3.1), 2-phosphoglycerate phosphatase (PGP; EC 3.1.3.13), serine-glyoxylate transaminase (SGAT; EC 2.6.1.45), glycine:2-oxoglutarate aminotransferase (GGAT; EC 2.6.1.4), glycerate-3-kinase (GK; EC 2.7.1.31), hydroxypyruvate reductase (HPR; EC 1.11.81), glycine decarboxylase (GDC), catalase (CAT; EC 1.11.16), serine hydroxymethyltransferase (SHMT; EC 2.1.2.1), Rubisco (EC 4.1.1.39).&#x20;
 

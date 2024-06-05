@@ -1,4 +1,4 @@
-# Systems of Photosynthesis
+# Different Photosynthesis systems (C3, C4, CAM, ...?)
 
 ### C3 photosynthesis
 
@@ -31,10 +31,6 @@ The C4 pathway starts with CO2 fixation in mesophyll cells, forming a 4-carbon i
 In conditions where oxygen is fixed instead of CO2, photosynthesis is reversed. C4 plants protect their rubisco from oxygen, allowing them to function at near-zero CO2 levels without triggering photorespiration. The diagram on the right shows CO2 compensation points for three plant types—the levels where net photosynthesis stops. In hot, dry conditions, plants close their stomata to conserve moisture, drastically reducing CO2 from the atmospheric level of around 380 ppm (2004 value). Lower CO2 compensation points mean these plants can thrive in hotter, drier conditions.
 
 Studies by Moore et al. highlight genera like Flaveria (Asteraceae), Panicum (Poaceae), and Alternanthera (Amaranthaceae) as intermediates between C3 and C4 photosynthesis. These intermediates feature leaf anatomies with less distinct and developed bundle sheath cells compared to true C4 plants, allowing better adaptation to higher temperatures and drier environments.
-
-
-
-CAM
 
 
 

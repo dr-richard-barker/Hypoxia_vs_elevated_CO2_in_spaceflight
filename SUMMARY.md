@@ -9,5 +9,7 @@
 * [References](references.md)
 * [Farming in space. Monje et al.,](farming-in-space.-monje-et-al..md)
 * [Carbon Concentrating Mechanisms (CCM)](carbon-concentrating-mechanisms-ccm.md)
-* [Systems of Photosynthesis](systems-of-photosynthesis.md)
+* [Different Photosynthesis systems (C3, C4, CAM, ...?)](different-photosynthesis-systems-c3-c4-cam-....md)
 * [AI conversation about hypoxia can provide some inspirational and ideas!](ai-conversation-about-hypoxia-can-provide-some-inspirational-and-ideas.md)
+* [Why is Photosynthesis so inefficient](why-is-photosynthesis-so-inefficient.md)
+* [Modelling digital Arabidopsis](modelling-digital-arabidopsis.md)
