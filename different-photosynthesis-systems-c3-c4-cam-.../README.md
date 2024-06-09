@@ -2,7 +2,7 @@
 
 ### C3 photosynthesis
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@ C3 plants rely on an electron transport process involving the thylakoid membrane
 
 ### C4 photosynthesis
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 The C4 pathway involves pumping 4-carbon acids to the bundle sheath cell and recycling a 3-carbon compound back to the mesophyll cell for conversion to PEP. This energy loss is why C3 plants outperform C4 plants with ample water and sunlight. However, C4 plants, by optimally using rubisco, regain some energy. According to Moore et al., only around 0.4% of the 260,000 known plant species are C4, but this small group includes important crops like corn, sorghum, sugarcane, and millet, as well as tropical grasses.
 
@@ -26,7 +26,7 @@ The C4 pathway starts with CO2 fixation in mesophyll cells, forming a 4-carbon i
 
 ## C3-C4 Intermediate Photosynthesis
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 In conditions where oxygen is fixed instead of CO2, photosynthesis is reversed. C4 plants protect their rubisco from oxygen, allowing them to function at near-zero CO2 levels without triggering photorespiration. The diagram on the right shows CO2 compensation points for three plant types—the levels where net photosynthesis stops. In hot, dry conditions, plants close their stomata to conserve moisture, drastically reducing CO2 from the atmospheric level of around 380 ppm (2004 value). Lower CO2 compensation points mean these plants can thrive in hotter, drier conditions.
 
@@ -36,7 +36,7 @@ Studies by Moore et al. highlight genera like Flaveria (Asteraceae), Panicum (Po
 
 ## Crassulacean Acid Metabolism (CAM)
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Some plant varieties convert to C3 plants at the end of the day when their acid stores are depleted and water is sufficient. In CAM (Crassulacean Acid Metabolism) plants, processes are separated by time: CO2 fixation occurs at night, and the malic acid is used in the Calvin cycle during the day. With stomata open only at night, when temperatures are lower and humidity is higher, CAM plants use much less water than C4 plants. CAM plants are adapted to hot, dry environments, comprising about 10% of plant species, including cacti, orchids, and pineapples. Agriculturally significant CAM plants include pineapples and Agave species used for tequila and fiber. The term "Crassulacean Acid Metabolism" comes from the Crassulaceae family, where this strategy was first discovered. These plants take in CO2 at night, storing it as malic acid in vacuoles, which can drop the pH to 4 with a concentration of up to 0.3 M. During the day, stomata close to conserve water, and malic acid is decarboxylated to release CO2 for the Calvin cycle.
 

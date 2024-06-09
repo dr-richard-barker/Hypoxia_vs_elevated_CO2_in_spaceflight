@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Action plan](README.md)
-* [Outline for Paper V1](outline-for-paper-v1.md)
+* [Outline for Paper V1 (C3 vs CAM vs C4 mechisms)](outline-for-paper-v1.md)
 * [Spaceflight plant respiration review](spaceflight-plant-respiration-review.md)
 * [Plants in space experience hypoxia](plants-in-space-experience-hypoxia.md)
 * [Future Work: Metabolic Modelling](future-work-metabolic-modelling.md)
@@ -9,7 +9,8 @@
 * [References](references.md)
 * [Farming in space. Monje et al.,](farming-in-space.-monje-et-al..md)
 * [Carbon Concentrating Mechanisms (CCM)](carbon-concentrating-mechanisms-ccm.md)
-* [Different Photosynthesis systems (C3, C4, CAM, ...?)](different-photosynthesis-systems-c3-c4-cam-....md)
+* [Different Photosynthesis systems (C3, C4, CAM, ...?)](different-photosynthesis-systems-c3-c4-cam-.../README.md)
+  * [Why is Photosynthesis so inefficient](different-photosynthesis-systems-c3-c4-cam-.../why-is-photosynthesis-so-inefficient.md)
 * [AI conversation about hypoxia can provide some inspirational and ideas!](ai-conversation-about-hypoxia-can-provide-some-inspirational-and-ideas.md)
-* [Why is Photosynthesis so inefficient](why-is-photosynthesis-so-inefficient.md)
 * [Modelling digital Arabidopsis](modelling-digital-arabidopsis.md)
+* [Draft. Template v2. Focus on CO2. Remove CAM/C4 aspect.](draft.-template-v2.-focus-on-co2.-remove-cam-c4-aspect..md)
