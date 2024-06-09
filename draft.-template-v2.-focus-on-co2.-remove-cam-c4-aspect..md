@@ -18,7 +18,7 @@
 * Provide background information on the effects of elevated CO2 on plants on Earth.
 * Discuss the unique challenges and opportunities presented by space flight for studying the stomatal response of plants to elevated CO2 combined with other spaceflight-related stressors such as lack of convective mixing of gases and increased ionizing radiation.
 * Carbonic anhydrase (CA) is a zinc-containing enzyme that catalyzes the reversible reaction of carbon dioxide (CO2) and water (H2O) into bicarbonate (HCO3−) and protons (H+):&#x20;
-* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABSUlEQVR4AWOgGJhbWDXFJ6b+SEhK+4+Oo6LjX3BwcAowKDskMARN+c/g1XaPQVjJCMUAmGZc2MbWfhIDIxMTg3PVEbAhLjWnGBiZmeAGgBThw0AL/oiJiRswiCgbMARN/gM2RNUpBcUAQtjPP+gQIyMjE4NJ3BSwAb7drxg4+ATgBhCDNTS14xjY+YSAml+ADTGOmUCKAYgAVXFMAhsQOOkXg6C8DtgAYrG1jf0EUIAyOlceAxviULqHJAOAUd7CwMTCwuBWfwFsgG3eBqINiIiKe8TGxs7DoOaaBdYcMPEbA5+kEtEGqKpphDFwCogw+PW+AxugH9pEdCD6+AXuAyplYjBLnAXW7N3+gIGVk4fYhPRLRFRUh0FU1QSoGZKQ5C1D4AkpjkBStrZ16IMmZUTIAwXgBhiZmJXFEZuZPJqvMPBJqTBQEwAA5BtozV2EUUYAAAAASUVORK5CYII=)NCBIRole of Carbonic Anhydrases and Inhibitors in Acid–Base PhysiologyCarbonic anhydrases (CAs) catalyze a reaction fundamental for life: the bidirectional conversion of carbon dioxide (CO2) and water (H2O) into bicarbonate (HCO3−) and protons (H+). These enzymes impact numerous physiological processes that occur within and across the many compartments in the body. Within compartments, CAs promote rapid H+ buffering and thus the stability of pH-sensitive processes. Between compartments, CAs promote movements of H+, CO2, HCO3−, and related species. This traffic is central to respiration, digestion, and whole-body/cellular pH regulation.
+* NCBIRole of Carbonic Anhydrases and Inhibitors in Acid–Base PhysiologyCarbonic anhydrases (CAs) catalyze a reaction fundamental for life: the bidirectional conversion of carbon dioxide (CO2) and water (H2O) into bicarbonate (HCO3−) and protons (H+). These enzymes impact numerous physiological processes that occur within and across the many compartments in the body. Within compartments, CAs promote rapid H+ buffering and thus the stability of pH-sensitive processes. Between compartments, CAs promote movements of H+, CO2, HCO3−, and related species. This traffic is central to respiration, digestion, and whole-body/cellular pH regulation.
 * PubMedStructure and mechanism of carbonic anhydrase - PubMedCarbonic anhydrase (CA; carbonate hydro-lyase, EC 4.2. 1.1) is a zinc-containing enzyme that catalyzes the reversible hydration of carbon dioxide: CO2+ H2O<-->HCO3(-)+H+.&#x20;
 * The enzyme is the target for drugs, such as acetazolamide, methazolamide, and dichlorphenamide, for the treatment of glaucoma. There are three evolutionarily unrelated CA families, designated alpha, beta, and gamma.&#x20;
 * All known CAs in the animal kingdom are of the alpha type. There are seven mammalian CA isozymes (CA I-VII) with distinct tissue distributions and intracellular locations.
@@ -34,13 +34,13 @@
 
 ### Methods:
 
-* Literature review : Are there any papers with data on stomal appurture in flight? See Luci Pulet's work&#x20;
+* **Literature review for stomatal data in spaceflight:** Are there any papers with data on stomal appurture in flight? See Luci Pulet's work... **add link...**&#x20;
 * Photorespiration
   * ggKEGG used to plot pathway
 * OSDR review&#x20;
   * Found RNAseq and Paper in OSDR on the effect of spaceflight on Col. - OSDR-522, and OSD-37, OSDR-38.
-  * Link to DRB/AWG/OSD-522 results
-* Literature review&#x20;
+  * [`Link to DRB/AWG/OSD-522 results`](https://osdr.gitbook.io/bric\_led\_awg/) `-> is there evidence in here for this papers thesis?`&#x20;
+* **Literature review for elevated CO2**
   * Found RNAseq and paper in EBI on the effect of elevated CO2 in both WT Col and _ca1,ca4 (carbonic anhydrase)_ double mutants.
 
 **Make a summary heat map for...**
