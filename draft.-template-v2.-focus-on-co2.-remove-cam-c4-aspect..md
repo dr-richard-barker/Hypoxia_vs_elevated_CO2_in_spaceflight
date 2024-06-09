@@ -17,9 +17,7 @@
 
 Carbonic anhydrase (CA; carbonate hydro-lyase, EC 4.2.1.1) is a zinc-containing enzyme that catalyzes the reversible hydration of carbon dioxide:
 
-\[ CO\_2 + H\_2O \leftrightarrow HCO\_3^- + H^+ ]
-
-**Types and Distribution**
+\[ CO2 + H\_2O \ -> HCO\_3^- + H^+ ]
 
 All known carbonic anhydrases in the animal kingdom are of the alpha type. There are seven mammalian CA isozymes (CA I-VII), each with distinct tissue distributions and intracellular locations. These enzymes are targets for drugs such as acetazolamide, methazolamide, and dichlorphenamide for treating glaucoma. There are three evolutionarily unrelated CA families: alpha, beta, and gamma.
 
@@ -40,9 +38,6 @@ Studying the stomatal response of plants to elevated CO2 in space presents uniqu
 
 These conditions offer a unique environment to investigate how plants adapt to stressors and may inform future biological research and space agriculture initiatives.
 
-
-
-\
 
 
 ### Methods:
@@ -101,7 +96,7 @@ Elevated CO₂ levels can inhibit photorespiration, a process where oxygen is co
 
 ### Chemical Signaling
 
-Chemicals produced in the shoots, such as phytohormones (e.g., sugars, abscisic acid, auxins, gibberellins and cytokinins and amino-acids), can travel to the roots and influence their growth and function. One examples is that ABA produced in response to high CO₂ levels can signal the roots to adjust their water uptake and transport processes (Ref). This signaling is crucial for maintaining water balance and nutrient uptake under varying environmental conditions. Additionally, auxins can modulate root architecture and growth patterns, further influencing the plant's ability to adapt to elevated CO₂ levels.
+Chemicals produced in the shoots, such as phytohormones (e.g., sugars, abscisic acid, auxins, gibberellins and cytokinins and amino acids), can travel to the roots and influence their growth and function. One examples is that ABA produced in response to high CO₂ levels can signal the roots to adjust their water uptake and transport processes **(Ref)**. This signalling is crucial for maintaining water balance and nutrient uptake under varying environmental conditions. Additionally, auxins can modulate root architecture and growth patterns, further influencing the plant's ability to adapt to elevated CO₂ levels.
 
 ### Apoplastic pH
 
@@ -115,15 +110,21 @@ The genome ontology group known as the "Highlight Response " was response detect
 
 Under elevated CO₂ (eCO₂) conditions, reactive oxygen species (ROS) such as hydrogen peroxide (H₂O₂) are produced in guard cells. This production is mediated by enzymes like NADPH oxidases (also known as Respiratory Burst Oxidase Homologs, RBOHs) and cell wall peroxidases. These ROS act as signalling molecules that initiate a cascade of events leading to stomatal closure.
 
+_**Insert table/ heatmap of RBOH loci from target studies**_
+
 ### Activation of Ion Channels
 
 ROS influence the activity of various ion channels in the guard cell plasma membrane. For instance, ROS can activate calcium (Ca²⁺) channels, leading to an increase in cytoplasmic Ca²⁺ concentration. The elevated Ca²⁺ levels activate multiple kinases, which regulate the activity of ROS-producing enzymes and other ion channels. This results in the efflux of anions (e.g., chloride and malate) and potassium ions (K⁺) from the guard cells, causing a loss of turgor pressure and stomatal closure.
+
+_**Insert table/ heatmap of ion channels loci from target studies**_
 
 ### Hormonal Interactions
 
 Abscisic acid (ABA), a plant hormone, is known to enhance ROS production in guard cells. ABA signalling involves redox regulation, where ROS serve as key mediators. For example, ABA can activate NADPH oxidases, leading to increased ROS levels and subsequent stomatal closure. Salicylic acid (SA) is also required for eCO₂-induced ROS generation and stomatal closure, highlighting the complex interplay between different hormonal pathways in response to elevated CO₂.
 
-### Feedback Mechanisms
+_**Insert table/ heatmap of ABA loci from target studies**_
+
+### ABA signalling interacts with rapid ROS response feedback mechanisms
 
 There is evidence of a positive feedback loop where increased ROS levels can enhance ABA accumulation, and increased ABA can further stimulate ROS production. This feedback loop helps to amplify the stomatal closure response under high CO₂ conditions. This mechanism ensures a robust and efficient response to environmental changes, optimizing water use and gas exchange.
 
@@ -131,11 +132,9 @@ There is evidence of a positive feedback loop where increased ROS levels can enh
 
 Under elevated CO₂ conditions, reactive oxygen species (ROS) are produced in guard cells through the action of NADPH oxidases and cell wall peroxidases. These ROS act as signalling molecules that activate ion channels, leading to changes in ion fluxes and a decrease in guard cell turgor pressure, ultimately resulting in stomatal closure. Hormones like abscisic acid (ABA) and salicylic acid (SA) play significant roles in modulating ROS production and the stomatal response, creating a complex regulatory network that ensures efficient stomatal closure. Elevated CO₂ levels in plant leaves under microgravity conditions can lead to significant physiological changes, including altered stomatal behaviour, reduced transpiration, and shifts in metabolic pathways. These changes might drive plants to adopt mechanisms to optimize CO₂ fixation and water use. Additionally, shoot-derived chemicals can influence root function and apoplastic pH, further affecting overall plant health and growth. Understanding these complex interactions is crucial for optimizing plant growth in space environments.
 
-\
-\
 
 
-Acknowledgements:
+**Acknowledgements:**
 
 * Acknowledge any sources of funding or support for the research.
 * Express gratitude to collaborators and colleagues who contributed to the study.
@@ -143,7 +142,7 @@ Acknowledgements:
 \
 
 
-References:
+**References:**
 
 * Include a complete list of references cited in the text.
 * Follow the journal's guidelines for referencing style.
